@@ -1,3 +1,4 @@
-const colors = ('colors');
+import { colors } from colors;
+const colors =require('colors');
 
 console.log(colors.red('This is red text'));
